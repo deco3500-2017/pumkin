@@ -70,6 +70,7 @@ Finalise| Final prototype demonstration | By the end of WEEK 12 | Display functi
 `#asynchronous interaction`
 `#refugees and asylum seekers` 
 `#helpin other`
+`#community`
 
 ### References 
 Refugee Council of Australia 2017, 'Report Of 2017 Annual Tripartite Consultations On Resettlement - Refugee Council of Australia', viewed 21 August 2017, < https://www.refugeecouncil.org.au/2017/report-2017-annual-tripartite-consultations-resettlement/ >.
