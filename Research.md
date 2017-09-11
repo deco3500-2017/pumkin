@@ -1,0 +1,26 @@
+## Research 
+
+Based on the analysis, there are three key issues face by the refugees and the asylum seekers living in Australia, including the language barriers for communication, the lack of cultural adjustment to make a successful life and the lack of opportunities to get involved in the local community. First of all, due to the insufficient English language skills, the refugees and asylum seekers are hard to make a proper settlement in the new environment, because of the poor information accessibility and the communication problems (Watkins, Razee & Richters 2012). For example, asylum seekers from non-English speaking countries mostly have a relatively low educational background, who cannot speak fluent English. Therefore, in order to achieve their physiological needs such like food and home, these people need to make a fluent English communication with the local people by overcoming the language barrios in Australia. However, although the Australian government has provided these people with free 510 hours’ English tutoring classes in the community, the supports offered are not enough for them to achieve an independent live in Australia (AMES Australia 2017). Therefore, there is a critical need for the Australian government to take further actions to solve the English communication issue due to the language barriers among the refugees and the asylum seekers in Australia.
+
+In addition, the cultural differences may also make the refugees and the asylum seekers hard to settle and work in Australia, especially for the people from the different religious regions. To explain, the ethics of educations and policies in Australia are different from most of the refugees’ and asylum seekers’ home countries, which are important for these people to pay particular attention on such things, in order to make a successful life in Australia (Gartley & Due 2017). For example, women in Australia have the equal rights with male in Australia, which is totally from the believing of several Middle East regions. However, although there are several organizations provide cultural orientation for the refugees and asylum seekers, such like Refugee Council of Australia (2016), additional educations should be provided to help them to understand some particular laws, such like comprehend child protection and domestic violence laws and the roles of police (Refugee Council of Australia 2016). Only by doing this, the refugees and the asylum seekers can develop a full understanding of Australian culture and laws and make appropriate actions based on the culture.
+
+At last, the lack of opportunities for them to get involved in the local community may also bring the refugees and the asylum seekers great issues to make a life in Australia. In details, it is important to provide refugees and asylum seekers local supports to release their mental health issues due to trauma, because it can support the development if community diversity in return (Savic et al. 2016). However, there are inadequate platforms or services in the communities for refugees and asylum seekers to share their experiences and opinions with the local residents, and the local residents also have no idea of how to get connected with the refugees and asylum seekers to provide more assistances. As the knowledge exchange practices would be very valuable for Australia’s development, which cannot only ensure the refugees and the asylum seekers to express their requirements, but can also bring lots of benefits for the local communities, such like encouraging the social inspirations (Minas et al. 2013). Thus, it is essential to ensure an effective platform for the refugees and asylum seekers to share information and experiences with the local communities for the aim of encouraging an optimistic diversity development.
+ 
+ 
+ 
+### Reference List
+
+AMES Australia 2017, About the AMEP, AMES Australia. Available from https://www.ames.net.au/learn-english/about-the-amep. [09 September 2017].
+
+Gartley, T. & Due, C. 2017, "The Interpreter Is Not an Invisible Being: A Thematic Analysis of the Impact of Interpreters in Mental Health Service Provision with Refugee Clients", Australian Psychologist, vol. 52, no. 1, pp. 31-40. 
+
+Minas, H., Kakuma, R., Too, L., Vayani, H., Orapeleng, S., Prasad-Ildes, R., Turner, G., Procter, N. & Oehm, D. 2013, "Mental health research and evaluation in multicultural Australia: developing a culture of inclusion", International Journal Of Mental Health Systems, vol. 7, no. 1, pp. 23-23.
+
+Refugee Council of Australia 2016, Cultural Orientation, 04 July 2016, Refugee Council of Australia. Available from: https://www.refugeecouncil.org.au/getfacts/settlement/citizenship/cultural-orientation/. [09 September 2017].
+
+Savic, M., Chur-Hansen, A., Mahmood, M.A. & Moore, V.M. 2016, "‘We don’t have to go and see a special person to solve this problem’: Trauma, mental health beliefs and processes for addressing ‘mental health issues’ among Sudanese refugees in Australia", International Journal of Social Psychiatry, vol. 62, no. 1, pp. 76-83.
+
+Watkins, P.G., Razee, H. & Richters, J. 2012, "'I'm Telling You The Language Barrier Is The Most, The Biggest Challenge': Barriers To Education Among Karen Refugee Women In Australia", Australian Journal of Education, vol. 56, no. 2, pp. 126-141.
+
+
+
