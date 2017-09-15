@@ -8,12 +8,16 @@ In details, we had got connected with a non-for-profit organization that support
 - Most of the refugees and asylum peoples in Australia are from Iraq, Sudan and Syria; and
 - Most of the refugees’ and asylum peoples’ first language are not English
 
+Academic Research: https://github.com/deco3500-2017/pumkin/blob/master/week8%20stand-up/Research.md
+
 #### Additionally, the key findings from the primary data are:
 - Most of the refugees and asylum peoples can skillfully use computers and use their mobile phones to get access to the Internet, especially among the young groups of the refugees and asylum peoples; 
 - The most wanted supports when they are boarding to Australia are English support, accommodation support and the gaining of valid certificates, such like SHEV and TPV;
 - Most of them do not have jobs, thus their livings are greatly depending on the supports provided by Centerlink;
 - The support givers’ most favorable assistances including: language support, loving and social support (how to take the bus/ how to go shopping), and daily necessities support;
 - The motivations of the support givers to provide assistance to the refugees and the asylum peoples are basically three, which are: developing their social networks to know more people with the same motivations; taking more social responsibilities to contribute to the community; and simply wanting to do some meaningful activities during the spare time.
+
+Interview Reponse: https://github.com/deco3500-2017/pumkin/blob/master/week8%20stand-up/interview%20Response%20(Organisation%20.pdf 
 
 #### At last, during the user testing process, the volunteers provide several suggestions for us to develop the application, which are:
 - Providing more language versions in the application, containing English and several other options of their own mother languages;
