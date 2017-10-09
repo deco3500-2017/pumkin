@@ -4078,8 +4078,10 @@ tbody.collapse.show {
 }
 
 .jumbotron {
-  background-image: url("../img/refugee-children.jpg")  ;
-  
+  background-image: url('../../1.jpg');
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+ 
   padding: 2rem 1rem;
   margin-bottom: 2rem;
   border-radius: 0.3rem;
