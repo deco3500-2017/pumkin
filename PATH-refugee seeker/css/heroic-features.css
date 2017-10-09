@@ -17,3 +17,6 @@ body {
 .card {
     height: 100%;
 }
+.my-img{
+    background-image: url("../img/1.jpg");
+}
