@@ -4078,9 +4078,9 @@ tbody.collapse.show {
 }
 
 .jumbotron {
-
+  background: url(http://bestanimations.com/Nature/Water/lake/lake-nature-animated-gif-7.gif)center center;
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: cover;
  
   padding: 2rem 1rem;
   margin-bottom: 2rem;
