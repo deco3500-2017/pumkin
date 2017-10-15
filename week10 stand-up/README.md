@@ -20,6 +20,12 @@ This week, our team have finished two user testing. The purposes of the two user
 - To develop the website on GitHub by starting coding;
 - To start the design of the storyboard in order to make the target users understand how our website works and how to use our website; and 
 - For the advertising process, as our target customers are refugees and people who seek asylum 
+#### Group Contributions
+Name | Contributions
+-- | --- 
+Lingyun Xie | user testing, survey, help in building prototype, documentation
+Choy Yiu Chun | design prototype
+Huy Nguyen |  user testing, build prototype  
 
 
 
