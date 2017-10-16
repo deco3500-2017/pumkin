@@ -13,7 +13,25 @@ body {
         padding-top: 0px;
     }
 }
-
+h1{
+  color:white;
+  position: relative;
+  font-size: 40px;
+  margin-left: 400px;
+  
+}
+h2{
+    color:black;
+    position: relative;
+    font-size: 24px;
+    margin-left: 350px;
+}
+form{
+    margin-left: 346px;
+    color: black;
+    
+    
+}
 header.masthead {
     background: url('../img/HomePage.png') no-repeat center center scroll;  
     -webkit-background-size: cover;
@@ -125,3 +143,4 @@ header.masthead .overlay {
     color:black;
     text-align: center;
 }
+
