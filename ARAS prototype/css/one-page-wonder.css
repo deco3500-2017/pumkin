@@ -27,7 +27,6 @@ header.masthead .overlay {
     padding: 210px 100px;
     
 }
-
 .nonecolor {
     background-color: transparent;
     border-color: orange;
@@ -58,4 +57,60 @@ header.masthead .overlay {
 }
 .nav-position{
    margin-top: -22px;
+}
+.helper-cover{
+    margin-left: 310px;
+    display: inline-block;
+    position: relative;
+}
+.becomeHelper-cover{
+    float: right;
+    margin-top: -10px;
+    margin-right:380px;
+    position:relative;
+    
+}
+#button1{
+    
+    position:absolute;
+    margin-left: 180px;
+    margin-top: -260px;
+    background: transparent;
+    border: 3px solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+#button2{
+    position:absolute;
+    margin-left:140px;
+    margin-top: -150px;
+    background: transparent;
+    border: 3px solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.blank-container{
+    text-align: center;
+    font-size: 49px;
+    position: relative;
+    display: -webkit-flex;
+    display: flex;
+    width: 520px;
+    height:200px;
+    background-color: grey;
+    margin-left:830px;
+    margin-top: -200px;
+    
 }
