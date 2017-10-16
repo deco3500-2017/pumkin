@@ -114,3 +114,14 @@ header.masthead .overlay {
     margin-top: -200px;
     
 }
+.footer1{
+    clear:both;
+    position: relative;
+    z-index:10;
+    height:30px;
+    margin-top:20px;
+    margin-bot:1px;
+    background-color: #e6e6e6;
+    color:black;
+    text-align: center;
+}
