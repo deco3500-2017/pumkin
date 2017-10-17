@@ -6,6 +6,7 @@
 
 body {
     padding-top: 54px;
+    margin-top: -13px;
 }
 
 @media (min-width: 992px) {
@@ -138,9 +139,15 @@ header.masthead .overlay {
     z-index:10;
     height:30px;
     margin-top:20px;
-    margin-bot:1px;
+    margin-bot: 1px;
     background-color: #e6e6e6;
     color:black;
     text-align: center;
+}
+.logoposition{
+    width: 200px;
+    heigh: 200px;
+    margin-top: -300px;
+    margin-left: -100px;
 }
 
