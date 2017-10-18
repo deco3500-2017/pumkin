@@ -26,6 +26,14 @@ h2{
     position: relative;
     font-size: 24px;
     margin-left: 350px;
+    margin-bottom: 50px;
+}
+h3{
+    color:black;
+    position:relative;
+    font-size:23px;
+    margin-left:890px;
+    margin-top: -70px;
 }
 form{
     margin-left: 346px;
@@ -48,9 +56,9 @@ header.masthead .overlay {
 }
 .nonecolor {
     background-color: transparent;
-    border-color: orange;
+    border-color: #ff3300;
     border-radius: 25px;
-    color: orange;
+    color: #ff5c33;
     border: 3px solid;
 }
 .language-position {
@@ -60,11 +68,11 @@ header.masthead .overlay {
 .dropdownmenu-1 {
     background-color: transparent;
     border: 2px solid;
-    border-color: orange;
+    border-color: #ff5c33;
     color:white;
 }
 .other1{
-    color: orange;
+    color: #ff3300;
 }
 .nav-size{
     padding-left: 50px;
@@ -107,7 +115,7 @@ header.masthead .overlay {
 }
 #button2{
     position:absolute;
-    margin-left:140px;
+    margin-left:110px;
     margin-top: -150px;
     background: transparent;
     border: 3px solid;
@@ -118,6 +126,17 @@ header.masthead .overlay {
     display: inline-block;
     font-size: 30px;
     font-style: italic;
+    
+}
+#button3{
+    position: absolute;
+    color:white;
+    background-color: #ff3300;
+    padding: 8px 39px;
+    border: 2px solid;
+    border-color:#ff3300;
+    margin-left:890px;
+    margin-top: -40px;
     
 }
 .blank-container{
@@ -149,5 +168,19 @@ header.masthead .overlay {
     heigh: 200px;
     margin-top: -300px;
     margin-left: -100px;
+}
+.mapposition{
+    height: 200px;
+    width: 600px;
+    float:right;
+    margin-top:-248px;
+    margin-right:380px;
+    
+}
+.checkbox-1{
+    position: absolute;
+    margin-left:1022px;
+    margin-top:-40px;
+    
 }
 
