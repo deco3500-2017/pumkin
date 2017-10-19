@@ -8,62 +8,84 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>ARAS</title>
+    <title>Half Slider - Start Bootstrap Template</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/one-page-wonder.css" rel="stylesheet">
+    <link href="css/half-slider.css" rel="stylesheet">
 
   </head>
 
   <body>
 
-    <!-- first header image -->
 
+    <header>
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
-    <header class="masthead">
-      <div class="overlay">
-        <div class="container">
-            <div class="dropdown">
-                
-                <button class="btn dropdown-toggle nonecolor language-position" type="button" data-toggle="dropdown" >Languages
-                    <span class="caret"></span></button>
-                        <ul class="dropdown-menu dropdownmenu-1 ">
-                            <li><a href="#" class="other1">1. English</a></li>
-                            <li><a href="#" class="other1">2. Chinese</a></li>
-                            <li><a href="#" class="other1">3. Arabic</a></li>
-                        </ul>
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item active" style="background-image: url('img/HomePage.png')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>First Slide</h3>
+              <p>This is a description for the first slide.</p>
             </div>
-        <img class="logoposition" src="img/logo.png">    
-        </div>
-          
-      </div>
-        
-    </header>
-
-    <section>
-        <!-- section 1 -->
-        <nav class="navbar navbar-default nav-position">
-          <div class="container-fluid">
-
-            <ul class="nav navbar-nav nav-font">
-              <li class="active nav-size"><a href="#">Home</a></li>
-              <li class="nav-size"><a href="service.html">  Service  </a></li>
-              <li class="nav-size"><a href="#">  Saved Profiles  </a></li>
-              <li class="nav-size"><a href="#">  Status  </a></li>
-            </ul>
+            <!-- dropdown list -->
+            <div class="dropdown ">
+              <button class="btn btn-primary dropdown-toggle dropdown_position dropdown_makeup" type="button" data-toggle="dropdown">Languages
+              <span class="caret"></span></button>
+              <ul class="dropdown-menu dropdown_makeup">
+                <li><a href="#" class="dropdown_element">English</a></li>
+                <li><a href="#" class="dropdown_element">Arabic</a></li>
+                <li><a href="#" class="dropdown_element">Vietnamese</a></li>
+              </ul>
+            </div>        
           </div>
-        </nav>
+        </div>
+      </div>
+    </header>
+      
+        <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg  color-grey  navbar_position">
+      <div class="container">
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link color-black" href="#">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link color-black" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link color-black" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link color-black" href="#">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+    <!-- Page Content -->
+    <section class="py-5">
+      <div class="container">
+        <h1>Half Slider by Start Bootstrap</h1>
+        <p>The background images for the slider are set directly in the HTML using inline CSS. The rest of the styles for this template are contained within the
+          <code>half-slider.css</code>file.</p>
+      </div>
     </section>
 
-    
     <!-- Footer -->
-    <footer class="footer1">
-      
-        <p class="m-0 text-center text-white">Created by Huy Nguyen</p>
-        <!-- /.container -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+      </div>
+      <!-- /.container -->
     </footer>
 
     <!-- Bootstrap core JavaScript -->
