@@ -33,6 +33,10 @@
     color:white;
     
 }
+.dropdown_makeup :hover{
+    background-color: orange;
+    color:white;
+}
 .dropdown_element{
     background:transparent;
     color:white;
