@@ -77,3 +77,22 @@ h2{
     margin-left: 20%;
      
 }
+.checklist-makeup{
+    background-color: #d9d9d9;
+    margin-bottom:1px;
+    border: 1px solid;
+    border-color: grey;
+    height: 170px;
+    width: 350px;
+    margin-left: 20%;
+}
+footer{
+    position: fixed;
+    width: 100%;
+    left:0;
+    bottom:0;
+    text-align: center;
+    color:white;
+    background-color: grey;
+    
+}
