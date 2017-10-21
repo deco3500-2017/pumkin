@@ -77,6 +77,7 @@
 
     <!-- Page Content -->
     <h1>Start matching with <a style="color:orange">19412</a> helpers <br>around Australia</h1>
+    <h2>Location</h2>
     <form action="/action_page.php">
         <select name="cars" class="dropdown-form-makeup">
             <option value="volvo">preferred language spoken by the helpers:</option>
@@ -85,14 +86,19 @@
             <option value="audi">Vietnamese</option>
         </select>
     </form>
+    <form action="/action_page.php" method="get" class="checklist-makeup">
+        <input type="checkbox" name="Visa Application" value="Visa Application"> Visa Application<br>
+        <input type="checkbox" name="Accommodation" value="Accommodation" checked="checked">Accommodation<br>
+        <input type="checkbox" name="Transportation" value="Transportation" >Transportation<br>
+        <input type="checkbox" name="Medical care" value="Medical Care" >Medical care<br>
+        <input type="checkbox" name="Education" value="Education" >Education<br>
+        <input type="checkbox" name="Job oppotunities" value="Job opportunities" >Job opportunities <br>
+        <input type="checkbox" name="other" value="other" > other<br>
+        
+    </form>
 
     <!-- Footer -->
-    <footer class="py-5 bg-dark">
-      <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
-      </div>
-      <!-- /.container -->
-    </footer>
+    <footer>Implemented by Huy Nguyen</footer>
 
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
