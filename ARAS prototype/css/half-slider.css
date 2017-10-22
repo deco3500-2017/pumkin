@@ -80,7 +80,7 @@ h2{
 }
 .checklist-makeup{
     background-color: #d9d9d9;
-    margin-bottom:1px;
+    margin-bottom:40px;
     border: 1px solid;
     border-color: grey;
     height: 170px;
@@ -95,5 +95,7 @@ footer{
     text-align: center;
     color:white;
     background-color: grey;
+    float: bottom;
+
     
 }
