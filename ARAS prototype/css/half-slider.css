@@ -119,6 +119,14 @@ section h2{
     margin-left:10%; 
     margin-top: 5%;
 }
+section button{
+    position: absolute;
+    
+    color:white;
+    margin-top:85%;
+    margin-left:-25%;
+    
+}
 div.map{
     position:absolute;
     margin-top:13%;
