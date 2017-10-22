@@ -108,7 +108,7 @@ form.checklist-makeup{
     height: 170px;
     width: 350px;
     margin-left: 17%;
-    margin-top: 13%;
+    margin-top: 17%;
     margin-bottom: 100px;
 }
 section h2{
@@ -122,7 +122,7 @@ section h2{
 button.button1{
     position: absolute;
     float: bottom;
-    margin-top:50%;
+    margin-top:59%;
     margin-left:10%;
     color:white;
     background-color: orange;
@@ -131,7 +131,7 @@ button.button1{
 form.form1{
     position:absolute;
     float:left;
-    margin-top:0%;
+    margin-top:59%;
     margin-left:50%;
     
 }
