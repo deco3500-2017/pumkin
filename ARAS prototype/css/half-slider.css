@@ -68,27 +68,27 @@ h1{
 section.container-service{
     position: absolute;
     background-color: black;
-    height:900px;
-    width:900px;
-    margin-left: 20%;
+    height:80%;
+    width:80%;
+    margin-left: 10%;
 }
 
 section.left{
     position:absolute;
-    width : 60%;
-    height: 50%;
+    width : 50%;
+    height: 70%;
     float:left;
-    background-color: yellow;
+    background-color: red;
     
 }
 section.right{
     position:absolute;
-    width: 40%;
-    height:50%;
+    width: 50%;
+    height:70%;
     float:left;
-    background-color: red;
+    background-color: yellow;
     margin-top: 0;
-    margin-left: 60%;
+    margin-left: 50%;
     
 }
 select.dropdown-form-makeup {
