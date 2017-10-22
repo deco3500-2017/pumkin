@@ -90,6 +90,9 @@ h2{
     width: 350px;
     margin-left: 20%;
 }
+#map{
+    height: 100%;
+}
 footer{
     position: fixed;
     width: 100%;
