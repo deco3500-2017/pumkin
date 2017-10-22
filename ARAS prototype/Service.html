@@ -77,45 +77,57 @@
 
 
     <!-- Page Content -->
-    <h1>Start matching with <a style="color:orange">19412</a> helpers <br>around Australia</h1>
-    <h2>Location</h2>
-    <div id="map"></div>
-    <form action="/action_page.php">
-        <select name="cars" class="dropdown-form-makeup">
-            <option value="volvo">preferred language spoken by the helpers:</option>
-            <option value="saab">Arabic</option>
-            <option value="fiat">English</option>
-            <option value="audi">Vietnamese</option>
-        </select>
-    </form>
-    <form action="/action_page.php" method="get" class="checklist-makeup">
-        <input type="checkbox" name="Visa Application" value="Visa Application"> Visa Application<br>
-        <input type="checkbox" name="Accommodation" value="Accommodation" checked="checked">Accommodation<br>
-        <input type="checkbox" name="Transportation" value="Transportation" >Transportation<br>
-        <input type="checkbox" name="Medical care" value="Medical Care" >Medical care<br>
-        <input type="checkbox" name="Education" value="Education" >Education<br>
-        <input type="checkbox" name="Job oppotunities" value="Job opportunities" >Job opportunities <br>
-        <input type="checkbox" name="other" value="other" > other<br>
-        
-    </form>
-    <script src = "https://maps.googleapis.com/maps/api/js"></script>
-      <script>
-         function loadMap() {
-			
-            var mapOptions = {
-               center:new google.maps.LatLng(-27.499426,153.011977), 
-               zoom:15, 
-               mapTypeId:google.maps.MapTypeId.ROADMAP
-            };
-				
-            var map = new google.maps.Map(document.getElementById("map"),mapOptions);
-         }
-			
-         google.maps.event.addDomListener(window, 'load', loadMap);
-      </script>
-    
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUP9sXyMWj3gLoGNp9r8DgFu9kWOf0swE&libraries=places&callback=initMap" async defer></script>
+    <section class="container-service">
+        <section class="left">
+            <h1>Start matching with <a style="color:orange">19412</a> helpers <br>around Australia</h1>
+            <form action="/action_page.php">
+            <select name="cars" class="dropdown-form-makeup">
+                <option value="volvo">preferred language spoken by the helpers:</option>
+                <option value="saab">Arabic</option>
+                <option value="fiat">English</option>
+                <option value="audi">Vietnamese</option>
+            </select>
+        </form>
+        <form action="/action_page.php" method="get" class="checklist-makeup">
+            <input type="checkbox" name="Visa Application" value="Visa Application"> Visa Application<br>
+            <input type="checkbox" name="Accommodation" value="Accommodation" checked="checked">Accommodation<br>
+            <input type="checkbox" name="Transportation" value="Transportation" >Transportation<br>
+            <input type="checkbox" name="Medical care" value="Medical Care" >Medical care<br>
+            <input type="checkbox" name="Education" value="Education" >Education<br>
+            <input type="checkbox" name="Job oppotunities" value="Job opportunities" >Job opportunities <br>
+            <input type="checkbox" name="other" value="other" > other<br>
 
+        </form>
+        </section>
+        
+        <section class="right">
+            <h2>Location</h2>
+            <div id="map" class="map"></div>
+        </section>
+        
+        
+        
+        <script src = "https://maps.googleapis.com/maps/api/js"></script>
+          <script>
+             function loadMap() {
+
+                var mapOptions = {
+                   center:new google.maps.LatLng(-27.499426,153.011977), 
+                   zoom:15, 
+                   mapTypeId:google.maps.MapTypeId.ROADMAP
+                };
+
+                var map = new google.maps.Map(document.getElementById("map"),mapOptions);
+             }
+
+             google.maps.event.addDomListener(window, 'load', loadMap);
+          </script>
+
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUP9sXyMWj3gLoGNp9r8DgFu9kWOf0swE&libraries=places&callback=initMap" async defer></script>
+
+        
+    </section>
+    
     
     <!-- Footer -->
     <footer>Implemented by Huy Nguyen</footer>
