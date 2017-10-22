@@ -67,7 +67,7 @@ h1{
 }
 section.container-service{
     position: absolute;
-    background-color: black;
+    background-color: #f2f2f2;
     height:60%;
     width:80%;
     margin-left: 10%;
@@ -78,7 +78,7 @@ section.left{
     width : 50%;
     height: 90%;
     float:left;
-    background-color: red;
+    background-color: transparent;
     
 }
 section.right{
@@ -86,7 +86,7 @@ section.right{
     width: 50%;
     height:90%;
     float:left;
-    background-color: yellow;
+    background-color: transparent;
     margin-top: 0;
     margin-left: 50%;
     
