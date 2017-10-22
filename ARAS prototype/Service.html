@@ -15,6 +15,27 @@
 
     <!-- Custom styles for this template -->
     <link href="css/half-slider.css" rel="stylesheet">
+        <script>
+      var map;
+      var infowindow;
+
+      function initMap() {
+        var pyrmont = {lat: -33.867, lng: 151.195};
+
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: pyrmont,
+          zoom: 15
+        });
+
+        infowindow = new google.maps.InfoWindow();
+        var service = new google.maps.places.PlacesService(map);
+        service.nearbySearch({
+          location: pyrmont,
+          radius: 500,
+          type: ['store']
+        }, callback);
+      }
+    </script>
 
   </head>
 
@@ -96,7 +117,10 @@
         <input type="checkbox" name="other" value="other" > other<br>
         
     </form>
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCUP9sXyMWj3gLoGNp9r8DgFu9kWOf0swE&libraries=places&callback=initMap" async defer></script>
 
+    
     <!-- Footer -->
     <footer>Implemented by Huy Nguyen</footer>
 
