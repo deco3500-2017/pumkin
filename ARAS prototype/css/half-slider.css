@@ -96,6 +96,8 @@ select.dropdown-form-makeup {
     min-width: 300px;
     width: 350px;  
     margin-left: 20%;
+    margin-top: 5%;
+    
     
 }
 form.checklist-makeup{
@@ -106,7 +108,7 @@ form.checklist-makeup{
     height: 170px;
     width: 350px;
     margin-left: 20%;
-    margin-top: 30px;
+    margin-top: 13%;
     margin-bottom: 100px;
 }
 section h2{
@@ -119,12 +121,12 @@ section h2{
 }
 div.map{
     position:absolute;
-    margin-top:10%;
+    margin-top:13%;
     margin-left:10%;
     
 }
 #map{
-    height: 200px;
+    height: 210px;
     width: 300px;
 }
 
