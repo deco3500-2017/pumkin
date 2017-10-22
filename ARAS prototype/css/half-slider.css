@@ -76,7 +76,7 @@ section.container-service{
 section.left{
     position:absolute;
     width : 50%;
-    height: 50%;
+    height: 90%;
     float:left;
     background-color: red;
     
@@ -84,7 +84,7 @@ section.left{
 section.right{
     position:absolute;
     width: 50%;
-    height:50%;
+    height:90%;
     float:left;
     background-color: yellow;
     margin-top: 0;
