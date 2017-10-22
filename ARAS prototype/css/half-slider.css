@@ -121,8 +121,8 @@ section h2{
 }
 button.button1{
     position: absolute;
-    float: left;
-    margin-top:0%;
+    float: bottom;
+    margin-top:59%;
     margin-left:10%;
     color:white;
     background-color: orange;
