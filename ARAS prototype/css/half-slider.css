@@ -73,30 +73,39 @@ h2{
     color:grey;
 }
 
-.dropdown-form-makeup {
+section.dropdown-form-makeup {
+    position:relative;
     min-width: 300px;
-    margin-left: 20%;
-    margin-bottom: 3%;
-    width: 350px;
-   
-    
-     
+    width: 350px;  
 }
-.checklist-makeup{
+section.checklist-makeup{
+    position:absolute;
     background-color: #d9d9d9;
-    margin-bottom:40px;
     border: 1px solid;
     border-color: grey;
     height: 170px;
     width: 350px;
-    margin-left: 20%;
+    margin-left: 0;
+    
+}
+section.left{
+    
+}
+section.right{
+    
+}
+section.map{
+    position:absolute;
 }
 #map{
     height: 220px;
     width: 300px;
-    margin-top: 0px;
-    margin-left: 60%;
-    
+}
+section.container-service{
+    position: relative;
+    background-color: black;
+    width: 80%;
+    margin-left: 10%;
 }
 footer{
     position: fixed;
