@@ -91,7 +91,9 @@ h2{
     margin-left: 20%;
 }
 #map{
-    height: 100%;
+    height: 300px;
+    width: 300px;
+    margin-top: 300px;
 }
 footer{
     position: fixed;
