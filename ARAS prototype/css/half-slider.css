@@ -166,13 +166,18 @@ footer{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 100%;
+  width: 100%;
   position: relative;
   margin: auto;
+  background-color: yellow;
+  
 }
 
 .mySlides {
     display: none;
+    background-color: red;
+    width: 100%;
 }
 
 /* Next & previous buttons */
@@ -253,4 +258,43 @@ footer{
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
+}
+img.img1{
+    position:absolute;
+    float: left;
+    height:100px;
+    width: 100px;
+    
+}
+img.img2{
+    position:absolute;
+    float:left;
+    height:100px;
+    width: 100px;
+}
+img.img3{
+    position:absolute;
+    float:left;
+    height:100px;
+    width: 100px;
+    
+}
+img.img4{
+    position:absolute;
+    float:left;
+    height:100px;
+    width: 100px;
+    
+}
+img.img5{
+    position:absolute;
+    float:left;
+    height:100px;
+    width: 100px;
+}
+img.img6{
+    position:absolute;
+    float:left;
+    height:100px;
+    width: 100px;
 }
