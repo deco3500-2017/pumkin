@@ -163,21 +163,14 @@ footer{
 /*this is for slideshow on FitPlayer side ---------------------------------------------*/
 
 * {box-sizing:border-box}
+body {font-family: Verdana,sans-serif;margin:0}
+.mySlides {display:none}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 100%;
-  width: 100%;
+  max-width: 1000px;
   position: relative;
   margin: auto;
-  background-color: yellow;
-  
-}
-
-.mySlides {
-    display: none;
-    background-color: red;
-    width: 100%;
 }
 
 /* Next & previous buttons */
@@ -186,8 +179,8 @@ footer{
   position: absolute;
   top: 50%;
   width: auto;
-  margin-top: -22px;
   padding: 16px;
+  margin-top: -22px;
   color: white;
   font-weight: bold;
   font-size: 18px;
@@ -228,7 +221,7 @@ footer{
 
 /* The dots/bullets/indicators */
 .dot {
-  cursor:pointer;
+  cursor: pointer;
   height: 15px;
   width: 15px;
   margin: 0 2px;
@@ -258,6 +251,11 @@ footer{
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
 }
 img.img1{
     position:absolute;
