@@ -97,7 +97,7 @@ select.dropdown-form-makeup {
     width: 79%;  
     margin-left: 17%;
     margin-top: 5%;
-     font-size: 100%;
+    font-size: 100%;
     
     
 }
@@ -106,12 +106,12 @@ form.checklist-makeup{
     background-color: #d9d9d9;
     border: 1px solid;
     border-color: grey;
-    height: 59%;
+    height: 63%;
     width: 79%;
     margin-left: 17%;
     margin-top: 17%;
     margin-bottom: 100px;
-    font-size: 110%
+    font-size: 120%
 }
 section h2{
     font-size:120%;
