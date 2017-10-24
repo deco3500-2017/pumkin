@@ -196,9 +196,9 @@ body {
   width: auto;
   padding: 16px;
   margin-top: 20%;
-  color: grey;
+  color: white;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 250%;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
 }
