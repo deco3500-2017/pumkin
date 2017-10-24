@@ -319,6 +319,13 @@ ul.nav_1 li.last{
     border-color:#ffa417;
     color:#fff !important;
 }
+.logo1{
+    margin-bottom: 1em;
+    height: 100px;
+    width: 960px;
+}
+
+
 .banner{
 	background:url(../images/wed.jpg)no-repeat center top;
 	background-size:cover;
