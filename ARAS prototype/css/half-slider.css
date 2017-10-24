@@ -250,7 +250,7 @@ body {
 }
 
 .active, .dot:hover {
-  background-color: black;
+  background-color: white;
 }
 
 /* Fading animation */
