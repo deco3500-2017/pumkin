@@ -800,6 +800,7 @@ span.m_3{
     position: relative;
     border-right: 2px solid;
     border-color: orange;
+    padding-left: 3em;
     
 }
 .find_helper:before, .find_helper:after {
