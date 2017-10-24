@@ -1123,7 +1123,7 @@ a.religion_1 {
 }
 /*-- footer --*/
 .footer{
-	background:#fff;
+	background:#e0d3bf;
 	padding:5em 0;
 }
 .col_2 h4{
@@ -1278,7 +1278,7 @@ a#profile-tab, a#home-tab, a#profile-tab1{
     color: #fff;
 } 
 .grid_3{
-	padding:5em 0;
+	padding:3em 0;
 }
 .tab_box {
     margin-bottom: 2em;
@@ -2130,7 +2130,7 @@ small.testi-meta1{
     margin-bottom: 3em;
 }
 .about_bottom{
-	padding:5em 0;
+	padding:3em 0;
 }
 .thumbnail_1, .thumbnail, figure.frame {
     background: none;
