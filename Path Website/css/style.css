@@ -986,14 +986,25 @@ form.form1{
     margin-left:20%;
     
 }
+form.form2{
+position: absolute;
+margin-top: 40%;
+margin-left: 20%;
+}
 div.map{
     position: absolute;
     margin-top: -5%;
-    /* margin-left: 10%; */
+    
 }
 #map{
     height: 350%;
     width: 80%;
+}
+div.map1{
+    position: absolute;
+    margin-top: 1em;
+    
+    
 }
 
 
@@ -1483,11 +1494,7 @@ ul.profile_item a:hover{
 .view_profile2{
 	margin:4em 0 0 0;
 }
-.map iframe{
-	border:none;
-	width:100%;
-	height:300px;
-}
+
 ul.login_details1{
    padding:0;
    margin:0;
@@ -3081,9 +3088,7 @@ input#submit-btn {
 .bg {
     min-height: 625px;
 }
-.map iframe {
-   height:200px;
-}
+
 .testi-meta1 {
     padding: 5px 177px 0 0;
 }
