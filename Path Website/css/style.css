@@ -1267,14 +1267,14 @@ td.day_label {
     display: inline-block;
     border-bottom: none;
     font-weight: 500;
-    background-color:#ffa417;
+    background-color:#f9622d;
     width: 100%;
     padding: 0;
     margin-bottom: 2em;
 }
 .nav-tabs1>li.active>a, .nav-tabs1>li.active>a:focus, .nav-tabs1>li.active>a:hover {
     color: #fff;
-    background-color:#c32143;
+    background-color:orange; 
     border:none;
 }
 .nav-tabs1 .open>a, .nav-tabs1 .open>a:hover, .nav-tabs1 .open>a:focus, .nav-tabs1>li>a:hover, .nav-tabs1>li>a:focus {
