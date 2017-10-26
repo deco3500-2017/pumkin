@@ -1,5 +1,5 @@
 ## DECO3500 - Final Document - Social & Mobile Computing
-## Team pumpkin
+## Team pumkin
 - Choy Yiu Chun 44126324
 - Huy Nguyen 44215639
 - Lingun Xie 43787483
