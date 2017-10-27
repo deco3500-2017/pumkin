@@ -76,7 +76,7 @@ Lingun Xie (Sherry) -- Testing/Documentation/Website
 | User testing | | Sherry, Huy | | Sherry | | Sherry | |
 | User Interview | Sherry | | Sherry, Huy | | | | |
 | Site implementation | | | | Huy | Huy, Sherry | Huy, Sherry | Sherry 
-| Promotional Materials | | | | | | Yiu Chun, Sherry | Yiu Chun, Sherry 
+| Promotional Materials | | | | | Yiu Chun | Yiu Chun, Sherry | Yiu Chun, Sherry 
 
 ## References:
 
