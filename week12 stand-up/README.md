@@ -14,6 +14,9 @@ However, because we did not make a consistent concept at the beginning of the pr
 
 Currently, the key pages of the website are: home page, service page, about page and user page. On the home page, some attractive pictures will be used to make the target audiences get interested in signing up and using the website. The functions of the service page re to help the refugees to find the appropriate helpers, and to help the refugees to find the organizations based on their particular needs. (MVP)
 
+The following is the intended user use-case diagram:
+![user use-case diagram](https://i.imgur.com/ljQAtkT.png)
+
 The following things are to:
 - Conduct another user testing with the finalized website in order to ensure the accomplishment of MVP;
 - Prepare for the promotional materials, such like posters and brochures;
