@@ -2,7 +2,7 @@
 ## Team pumkin
 - Choy Yiu Chun 44126324
 - Huy Nguyen 44215639
-- Lingun Xie 43787483
+- Lingun Xie (Sherry) 43787483
 ## Links
 ### Prototype: [Click Here](https://deco3500-2017.github.io/pumkin/Path%20Website/index.html)
 ### Week 8 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week8%20stand-up)
@@ -10,7 +10,7 @@
 ### Week 12 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/blob/master/week12%20stand-up.md)
 ### Promotional Materials: 
 - A2 Poster: [Click Here](https://github.com/deco3500-2017/pumkin/blob/master/Promotional%20Material/Conference-poster.pdf)
-- Brochure: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week10%20stand-up)
+- Brochure: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/Promotional%20Material)
 ## Summary 
 Leaving their hometown and starting a life in a different country with a different language, different laws, and different cultural expectations requires a period of adjustment. For those refugees and asylum seekers who suffer from this process, it will feel more difficult due to the circumstances under which they are leaving their home country. Some of them can’t apply for a valid refugee visa or find supporting organizations due to the language and communication barriers. Some of them also have ongoing mental health issues due to trauma.
 
@@ -19,15 +19,53 @@ For that, our solution and method to address this issue was by providing a web b
 The site's features include allowing non-English users to choose from four different languages, so the site will translate the language they choose. And let them understand how to use the site. Next, the user can choose the service according to their own requirements. Including looking for people to help them, looking for supporting organizations, and be a person to help others. 
 For refugee users, the main purpose of their coming to our website is generally to seek for help. "Find helps" this feature allows them to according to their own needs to find a helper. And contact them through our website. In order to solve the privacy issue, the path website has a registration function. And cancel the display of personal contact in the personal profile, the user can only communicate on our platform. And then they may exchange contact to form a long-term help mode after. 
 
-### Website Screenshots
-
 ### Instructions and User Guide for Prototype
+![original](https://i.imgur.com/f7q88K0.png) 
+
+For Refugee Users: 
 
 ## The Process
+In order to deal with the Refugee's problem that we had addressed, initially we thought of something like find organisation or live chat and forum that allows everybody to talk to everybody, included the refugees, but then we realized that may not be the best function as this would not be stand-out from a normal forum except it's claimed to be targeting to help refugees, the initial home page design is shown below :
+
+![original](https://i.imgur.com/TgxQBze.jpg)
+
+After a meeting and user research we decided to have a change that will make the site much more refugee-focused by having a main function which is “matching” function that we use on our final product, just like a lot of dating site out there, we think that perhaps by getting the people who need help and the people who are willing to offer help will make the site not only more interesting, but efficient, and we canceled the live chat and forum because we thought it is unnecessary. the hand draft below was the note we took in the meeting, as well as the prototype of home page we made :
+
+![draft](https://i.imgur.com/kngyINu.png)
+
+Going straight into services without any explanation and description of what we do and how it works might be a little bit confusing at first particularly when the target audience do not have too much experience of dealing with tech, we realized the best we can do for that is by adding some more introduction like people’s stories and we also put news that they might be interested in, before they actually start using the service, here came our second design:
+
+![draft](https://i.imgur.com/ABjP0xe.jpg)
+
+What we changed here is, we put on the info panel on the slider, for people who know what they are doing in our site, and if they don’t, they can also check on stories and services instructions below before start using our site, and this time, we need our designer to put on some captions / descriptions next to the prototype to explain what the coders need to know there to avoid confusion.
+
+![final](https://i.imgur.com/NTEAX0s.png)
+
+
+
+
 
 ### Limitation  
 Finally, after finishing all the project, we see that our project was not finished perfectly. Therefore, we sat together and figured out some problems that affected us on doing this project. First of all is lack of commnication with refugee organisation. In the steps of doing research and evaluation, in other to get high quality result, we tried to get people in some refugee organisation to do the test. Unfortunately, they are not always available to help us so it take us lots of time to do the research, testing and evaluation. Secondly, In the step of making electronics prototype, there is some misunderstanding between team members mean that what we plan to do was not consistent and as the result, it took us 3 weeks and a half to finish the prototype. Finally, there are just 3 people in our team but what to do is alot so we cant finish the prototype perfectly.
 
+## Team Work Distribution:
+Choy Yiu Chun -- Mockups/Paper prototype 
 
+Huy Nguyen -- Electronic prototype/Website
+
+Lingun Xie (Sherry) -- Testing/Documentation/Website
+
+| Task | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 | Week 13
+| ---  | ------ | ------ | ------ | ------- | ------- | ------- | -------
+| General Research | Sherry | | Sherry, Huy| | | | | 
+| Documentation | Sherry | Sherry | Sherry | Sherry | Sherry | Sherry | Sherry
+| Mockups of site | | Yiu Chun | Yiu Chun | | | | |
+| Electronic & paper prototyping | Yiu Chun | | Yiu Chun | Sherry, Huy | | | 
+| User testing | | Sherry, Huy | | Sherry | | Sherry | |
+| User Interview | Sherry | | Sherry, Huy | | | | |
+| Site implementation | | | | Huy | Huy, Sherry | Huy, Sherry | Sherry 
+| Promotional Materials | | | | | | Yiu Chun, Sherry | Yiu Chun, Sherry 
+
+## References:
 
 
