@@ -9,7 +9,7 @@
 ### Week 10 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week10%20stand-up)
 ### Week 12 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/blob/master/week12%20stand-up.md)
 ### Promotional Materials: 
-- A2 Poster: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week10%20stand-up)
+- A2 Poster: [Click Here](https://github.com/deco3500-2017/pumkin/blob/master/Promotional%20Material/Conference-poster.pdf)
 - Brochure: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week10%20stand-up)
 ## Summary 
 Leaving their hometown and starting a life in a different country with a different language, different laws, and different cultural expectations requires a period of adjustment. For those refugees and asylum seekers who suffer from this process, it will feel more difficult due to the circumstances under which they are leaving their home country. Some of them can’t apply for a valid refugee visa or find supporting organizations due to the language and communication barriers. Some of them also have ongoing mental health issues due to trauma.
