@@ -26,6 +26,7 @@ For refugee users, the main purpose of their coming to our website is generally 
 ## The Process
 
 ### Limitation  
+Finally, after finishing all the project, we see that our project was not finished perfectly. Therefore, we sat together and figured out some problems that affected us on doing this project. First of all is lack of commnication with refugee organisation. In the steps of doing research and evaluation, in other to get high quality result, we tried to get people in some refugee organisation to do the test. Unfortunately, they are not always available to help us so it take us lots of time to do the research, testing and evaluation. Secondly, In the step of making electronics prototype, there is some misunderstanding between team members mean that what we plan to do was not consistent and as the result, it took us 3 weeks and a half to finish the prototype. Finally, there are just 3 people in our team but what to do is alot. 
 
 
 
