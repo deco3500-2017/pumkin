@@ -7,7 +7,7 @@
 ### Prototype: [Click Here](https://deco3500-2017.github.io/pumkin/Path%20Website/index.html)
 ### Week 8 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week8%20stand-up)
 ### Week 10 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week10%20stand-up)
-### Week 12 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/blob/master/week12%20stand-up.md)
+### Week 12 Stand Up: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/week12%20stand-up)
 ### Promotional Materials: 
 - A2 Poster: [Click Here](https://github.com/deco3500-2017/pumkin/blob/master/Promotional%20Material/Conference-poster.pdf)
 - Brochure: [Click Here](https://github.com/deco3500-2017/pumkin/tree/master/Promotional%20Material)
